@@ -23,7 +23,7 @@ BS;;Bósnio
 BR;;Bretão
 BG;;Búlgaro
 MY;;Birmanês
-CA;;Catalão; Valenciano
+CA;;Catalão
 CH;;Chamorro
 CE;;Tchetcheno
 ZH;;Chinês
