@@ -53,7 +53,7 @@ GD;;Escocês
 GA;;Irlandês
 GL;;Galego
 GV;;Manês
-EL;;Grego Moderno (1453-)
+EL;;Grego
 GN;;Guarani
 GU;;Guzerate
 HT;;Haitiano; Crioulo haitiano

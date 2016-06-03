@@ -53,7 +53,7 @@ GD;;Schottisches Gälisch
 GA;;Irisch
 GL;;Galizisch
 GV;;Manx
-EL;;Neugriechisch (ab 1453)
+EL;;Griechisch
 GN;;Guaraní
 GU;;Gujarati
 HT;;Haitianisch; Haitianisches Kreolisch

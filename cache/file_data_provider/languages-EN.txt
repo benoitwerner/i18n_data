@@ -53,7 +53,7 @@ GD;;Scottish Gaelic
 GA;;Irish
 GL;;Galician
 GV;;Manx
-EL;;Greek, Modern (1453-)
+EL;;Greek
 GN;;Guarani
 GU;;Gujarati
 HT;;Haitian; Haitian Creole

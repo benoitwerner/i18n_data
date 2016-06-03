@@ -53,7 +53,7 @@ GD;;escocés gaélico
 GA;;Irlandés
 GL;;Gallego
 GV;;Manx [Gaélico de Manx]
-EL;;Griego Moderno (>1453)
+EL;;Griego
 GN;;Guaraní
 GU;;Gujarati
 HT;;Hawayano (Creole haitiano)
