@@ -49,7 +49,7 @@ FY;;Westfriesisch
 FF;;Ful
 KA;;Georgisch
 DE;;Deutsch
-GD;;Gälisch; Schottisches Gälisch
+GD;;Schottisches Gälisch
 GA;;Irisch
 GL;;Galizisch
 GV;;Manx

@@ -49,7 +49,7 @@ FY;;Western Frisian
 FF;;Fulah
 KA;;Georgian
 DE;;German
-GD;;Gaelic; Scottish Gaelic
+GD;;Scottish Gaelic
 GA;;Irish
 GL;;Galician
 GV;;Manx

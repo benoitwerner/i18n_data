@@ -49,7 +49,7 @@ FY;;Ucraniano
 FF;;fula
 KA;;georgiano
 DE;;Alemão
-GD;;Gaélico; Gaélico Escocês
+GD;;Gaélico Escocês
 GA;;Irlandês
 GL;;Galego
 GV;;Man

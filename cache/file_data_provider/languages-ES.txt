@@ -49,7 +49,7 @@ FY;;Frisón occidental
 FF;;Fulah
 KA;;Georgiano
 DE;;Alemán
-GD;;Gaélico, escocés gaélico
+GD;;escocés gaélico
 GA;;Irlandés
 GL;;Gallego
 GV;;Manx [Gaélico de Manx]

@@ -49,7 +49,7 @@ FY;;frison occidental
 FF;;peul
 KA;;géorgien
 DE;;allemand
-GD;;gaélique ; gaélique écossais
+GD;;gaélique écossais
 GA;;irlandais
 GL;;galicien
 GV;;mannois ; manx
