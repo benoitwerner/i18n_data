@@ -96,7 +96,7 @@ LV;;Lettisch
 LI;;Limburgisch
 LN;;Lingala
 LT;;Litauisch
-LB;;Luxemburgisch; Lëtzebuergesch
+LB;;Luxemburgisch
 LU;;Luba-Katanga
 LG;;Ganda
 MK;;Makedonisch

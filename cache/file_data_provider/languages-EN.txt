@@ -96,7 +96,7 @@ LV;;Latvian
 LI;;Limburgan; Limburger; Limburgish
 LN;;Lingala
 LT;;Lithuanian
-LB;;Luxembourgish; Letzeburgesch
+LB;;Luxembourgish
 LU;;Luba-Katanga
 LG;;Ganda
 MK;;Macedonian
