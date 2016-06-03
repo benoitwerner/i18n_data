@@ -35,7 +35,7 @@ CR;;Cree
 CS;;Checo
 DA;;Danés
 DV;;Divehi; Dhivehi; Maldivian
-NL;;Holandés, Flamenco
+NL;;Holandés
 DZ;;Butaní
 EN;;Inglés
 EO;;Esperanto

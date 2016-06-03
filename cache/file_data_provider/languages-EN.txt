@@ -35,7 +35,7 @@ CR;;Cree
 CS;;Czech
 DA;;Danish
 DV;;Divehi; Dhivehi; Maldivian
-NL;;Dutch; Flemish
+NL;;Dutch
 DZ;;Dzongkha
 EN;;English
 EO;;Esperanto

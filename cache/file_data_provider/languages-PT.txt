@@ -35,7 +35,7 @@ CR;;Grego
 CS;;Checo
 DA;;Dinamarquês
 DV;;Divehi; Dhivehi; Maldivian
-NL;;Holandês; Flamengo
+NL;;Holandês
 DZ;;dzonga
 EN;;Inglês
 EO;;Esperanto

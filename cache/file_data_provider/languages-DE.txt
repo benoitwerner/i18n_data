@@ -35,7 +35,7 @@ CR;;Cree
 CS;;Tschechisch
 DA;;Dänisch
 DV;;Dhivehi
-NL;;Niederländisch; Flämisch
+NL;;Niederländisch
 DZ;;Dzongkha
 EN;;Englisch
 EO;;Esperanto
