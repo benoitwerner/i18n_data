@@ -119,7 +119,7 @@ NN;;norvégien nynorsk
 NB;;norvégien Bokmål
 NO;;norvégien
 NY;;nyanja
-OC;;occitan (après 1500)
+OC;;occitan
 OJ;;ojibwa
 OR;;oriya
 OM;;galla

@@ -119,7 +119,7 @@ NN;;Neu-Norwegisch
 NB;;Norwegisch (Bokmål)
 NO;;Norwegisch
 NY;;Chichewa; Chewa; Nyanja
-OC;;Okzitanisch (nach 1500)
+OC;;Okzitanisch
 OJ;;Ojibwa
 OR;;Orija
 OM;;Oromo

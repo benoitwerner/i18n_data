@@ -119,7 +119,7 @@ NN;;Noruego Nynorsk; Nynorsk, Noruego
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Noruego
 NY;;Chewa; Chichewa; Nyanja
-OC;;Occitano (después de 1500); Provencal
+OC;;Occitano
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo (Afan)
