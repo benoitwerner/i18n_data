@@ -146,7 +146,7 @@ SN;;Xona
 SD;;Síndi
 SO;;Somali
 ST;;Sesoto do Sul
-ES;;Espanhol; Castelhano
+ES;;Espanhol
 SC;;Sardo
 SR;;Sérvio
 SS;;Swati
