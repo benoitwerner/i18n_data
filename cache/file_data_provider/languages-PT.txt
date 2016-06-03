@@ -146,7 +146,7 @@ SN;;Shona
 SD;;sindi
 SO;;somali
 ST;;soto, do sul
-ES;;Espanhol; Castelhano
+ES;;Espanhol
 SC;;Macedônio
 SR;;Sérvio
 SS;;swati

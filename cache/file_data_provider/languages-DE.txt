@@ -146,7 +146,7 @@ SN;;Schona
 SD;;Sindhi
 SO;;Somali
 ST;;Sotho (Süd)
-ES;;Spanisch (Kastilisch)
+ES;;Spanisch
 SC;;Sardisch
 SR;;Serbisch
 SS;;Swazi

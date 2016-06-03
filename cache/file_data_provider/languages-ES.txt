@@ -146,7 +146,7 @@ SN;;Shona
 SD;;Sindhi
 SO;;Somalí
 ST;;Sotho del Sur
-ES;;Español; Castellano
+ES;;Español
 SC;;Sardo
 SR;;Serbio
 SS;;Siswati
